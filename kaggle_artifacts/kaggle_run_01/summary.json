@@ -1,0 +1,8 @@
+{
+  "run_name": "kaggle_run_01",
+  "copied_files": [
+    "/kaggle/working/repo/kaggle_artifacts/kaggle_run_01/helmet_plate_best.pt",
+    "/kaggle/working/repo/kaggle_artifacts/kaggle_run_01/results.csv",
+    "/kaggle/working/repo/kaggle_artifacts/kaggle_run_01/confusion_matrix.png"
+  ]
+}
